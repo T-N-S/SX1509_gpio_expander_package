@@ -1,9 +1,0 @@
-setup.py
-SX1509_gpio_expander.egg-info/PKG-INFO
-SX1509_gpio_expander.egg-info/SOURCES.txt
-SX1509_gpio_expander.egg-info/dependency_links.txt
-SX1509_gpio_expander.egg-info/requires.txt
-SX1509_gpio_expander.egg-info/top_level.txt
-src/IO_Types.py
-src/SX1509_gpio_expander.py
-src/__init__.py
