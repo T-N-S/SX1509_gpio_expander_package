@@ -5,7 +5,7 @@ setup(
     version='0.1.0',
     author= "Tim Schumann",
     description='A package to control the SX1509 GPIO expander',
-    url='https://github.com/yourusername/SX1509_gpio_expander',  # replace with your URL
+    url='https://github.com/T-N-S/SX1509_gpio_expander_package',  # replace with your URL
     packages=find_packages(),
     package_data={
         'SX1509_gpio_expander': ['*.py'],
