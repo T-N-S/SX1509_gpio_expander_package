@@ -4,7 +4,7 @@ This library provides an interface to the SX1509 GPIO expander.
 """
 
 # Copyright (c) 2020 Pat Satyshur
-# Modified by Tim Schumann in 2022 to run up to 5 motors on a MMRP (Modular Mobile Robot Platform) for the Alpen-Adria University Klagenfurt
+# Modified and published by Tim Schumann in 2024 to run up to 5 motors on a MMRP (Modular Mobile Robot Platform).
 #
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
@@ -27,7 +27,7 @@ This library provides an interface to the SX1509 GPIO expander.
 
 
 from adafruit_bus_device import i2c_device
-import IO_Types
+import sx1509_gpio_expander.IO_Types as IO_Types
 
 _SX1509_RegInputDisableB = 0x00 #Input buffer disable register - I/O[15-8] (Bank B) 0000 0000
 _SX1509_RegInputDisableA = 0x01 # Input buffer disable register - I/O[7-0] (Bank A) 0000 0000

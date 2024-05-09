@@ -1,4 +1,5 @@
 # Copyright (c) 2020 Pat Satyshur
+# Modified and published by Tim Schumann in 2024 to run up to 5 motors on a MMRP (Modular Mobile Robot Platform).
 #
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
